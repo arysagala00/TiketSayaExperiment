@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TiketSaya</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="next">CONTINUE</string>
+    <string name="bio">Bio</string>
+    <string name="name_label">Name</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="buy_ticket_label">BUY TICKET</string>
+    <string name="pay_label">PAY NOW</string>
+    <string name="view_ticket_label">VIEW TICKETS</string>
+    <string name="dashboard_label">MY DASHBOARD</string>
+    <string name="sign_out_label">SIGN OUT</string>
+    <string name="edit_profile_label">EDIT PROFILE</string>
+    <string name="refund_label">REFUND NOW</string>
+    <string name="save_profile_label">SAVE PROFILE</string>
+</resources>
